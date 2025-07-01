@@ -22,3 +22,9 @@ h1 {
 p {
     font-size: 20px;
 }
+
+section {
+ background-color: rgb(5, 85,29);
+patting-bottom: 80px;
+pattig-top: 80px;
+
