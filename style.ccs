@@ -31,5 +31,5 @@ display: Flex;
 justify-content:center;
 }
 
-div{
-msrgin-rigth
+.chamada texto{
+msrgin-right:10%;
