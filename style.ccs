@@ -24,12 +24,13 @@ p {
 }
 
 section {
- background-color: rgb(5, 85,29);
-patting-bottom: 80px;
-pattig-top: 80px;
-display: Flex;
-justify-content:center;
+    background-color: rgb(29, 148, 239);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content:center;
 }
 
-.chamada texto{
-msrgin-right:10%;
+.chamada-texto {
+    margin-right: 10%;
+}
